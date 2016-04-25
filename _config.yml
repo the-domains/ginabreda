@@ -1,0 +1,28 @@
+name: Joan Ginabrea
+favicon: null
+layout_spectrum: 0.7630628077313304
+typography_spectrum: 0.01464235014282167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04615167481824756
+  lightness: 0.9547242880798876
+  saturation: 0.46849228464998305
+  rhythmicContrast: 0.14818738517351449
+purpose: []
